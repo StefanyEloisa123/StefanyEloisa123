@@ -1,16 +1,13 @@
-## Hi there 👋
+**Bem vindo ao meu perfil!**
 
-<!--
-**StefanyEloisa123/StefanyEloisa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Stefanyn Eloisa
 
-Here are some ideas to get you started:
+Sou aluna do componente curricular de Pemsamento Computacional pela rede estadual de educação do Paraná.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo em  aula a plataforma [Alura](https://www.alura.com.br/)
+
+### Você pode entrar em contato comigo:
+
+souza.stefany08@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/yes-funny-animals-cute-smile-gif-13470527)
